@@ -21,7 +21,7 @@ function generateComputerChoice() {
     const randomNumber = Math.floor(Math.random() * 3) + 1
 
     if (randomNumber === 1) {
-    computerChoice =  'roock'
+    computerChoice =  'rock'
     }
     if (randomNumber === 2) {
     computerChoice =  'paper'   
