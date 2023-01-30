@@ -27,7 +27,7 @@ function generateComputerChoice() {
     computerChoice =  'paper'   
     }
     if (randomNumber === 3) {
-    computerChoice =  'scissors'   
+    computerChoice =  'scisssors'   
     }
 
 computerChoiceDisplay.innerHTML = computerChoice
